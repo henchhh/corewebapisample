@@ -1,0 +1,38 @@
+C:\app\appsettings.Development.json
+C:\app\appsettings.json
+C:\app\WebService.exe
+C:\app\WebService.deps.json
+C:\app\WebService.runtimeconfig.json
+C:\app\WebService.runtimeconfig.dev.json
+C:\app\WebService.dll
+C:\app\ref\WebService.dll
+C:\app\WebService.pdb
+C:\Users\deand\Documents\OCBC-BATCH2-CSHARP\Day 7\Sesi13\WebService\obj\Release\net5.0\WebService.csproj.AssemblyReference.cache
+C:\Users\deand\Documents\OCBC-BATCH2-CSHARP\Day 7\Sesi13\WebService\obj\Release\net5.0\WebService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\deand\Documents\OCBC-BATCH2-CSHARP\Day 7\Sesi13\WebService\obj\Release\net5.0\WebService.AssemblyInfoInputs.cache
+C:\Users\deand\Documents\OCBC-BATCH2-CSHARP\Day 7\Sesi13\WebService\obj\Release\net5.0\WebService.AssemblyInfo.cs
+C:\Users\deand\Documents\OCBC-BATCH2-CSHARP\Day 7\Sesi13\WebService\obj\Release\net5.0\WebService.csproj.CoreCompileInputs.cache
+C:\Users\deand\Documents\OCBC-BATCH2-CSHARP\Day 7\Sesi13\WebService\obj\Release\net5.0\WebService.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\deand\Documents\OCBC-BATCH2-CSHARP\Day 7\Sesi13\WebService\obj\Release\net5.0\WebService.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\deand\Documents\OCBC-BATCH2-CSHARP\Day 7\Sesi13\WebService\obj\Release\net5.0\staticwebassets\WebService.StaticWebAssets.Manifest.cache
+C:\Users\deand\Documents\OCBC-BATCH2-CSHARP\Day 7\Sesi13\WebService\obj\Release\net5.0\staticwebassets\WebService.StaticWebAssets.xml
+C:\Users\deand\Documents\OCBC-BATCH2-CSHARP\Day 7\Sesi13\WebService\obj\Release\net5.0\scopedcss\bundle\WebService.styles.css
+C:\Users\deand\Documents\OCBC-BATCH2-CSHARP\Day 7\Sesi13\WebService\obj\Release\net5.0\WebService.RazorTargetAssemblyInfo.cache
+C:\Users\deand\Documents\OCBC-BATCH2-CSHARP\Day 7\Sesi13\WebService\obj\Release\net5.0\WebService.csproj.CopyComplete
+C:\Users\deand\Documents\OCBC-BATCH2-CSHARP\Day 7\Sesi13\WebService\obj\Release\net5.0\WebService.dll
+C:\Users\deand\Documents\OCBC-BATCH2-CSHARP\Day 7\Sesi13\WebService\obj\Release\net5.0\ref\WebService.dll
+C:\Users\deand\Documents\OCBC-BATCH2-CSHARP\Day 7\Sesi13\WebService\obj\Release\net5.0\WebService.pdb
+C:\Users\deand\Documents\OCBC-BATCH2-CSHARP\Day 7\Sesi13\WebService\obj\Release\net5.0\WebService.genruntimeconfig.cache
+C:\Users\deand\Documents\OCBC-BATCH2-CSHARP\Day 7\Sesi13\WebService\bin\Release\net5.0\appsettings.Development.json
+C:\Users\deand\Documents\OCBC-BATCH2-CSHARP\Day 7\Sesi13\WebService\bin\Release\net5.0\appsettings.json
+C:\Users\deand\Documents\OCBC-BATCH2-CSHARP\Day 7\Sesi13\WebService\bin\Release\net5.0\WebService.exe
+C:\Users\deand\Documents\OCBC-BATCH2-CSHARP\Day 7\Sesi13\WebService\bin\Release\net5.0\WebService.deps.json
+C:\Users\deand\Documents\OCBC-BATCH2-CSHARP\Day 7\Sesi13\WebService\bin\Release\net5.0\WebService.runtimeconfig.json
+C:\Users\deand\Documents\OCBC-BATCH2-CSHARP\Day 7\Sesi13\WebService\bin\Release\net5.0\WebService.runtimeconfig.dev.json
+C:\Users\deand\Documents\OCBC-BATCH2-CSHARP\Day 7\Sesi13\WebService\bin\Release\net5.0\WebService.dll
+C:\Users\deand\Documents\OCBC-BATCH2-CSHARP\Day 7\Sesi13\WebService\bin\Release\net5.0\ref\WebService.dll
+C:\Users\deand\Documents\OCBC-BATCH2-CSHARP\Day 7\Sesi13\WebService\bin\Release\net5.0\WebService.pdb
+C:\Users\deand\Documents\OCBC-BATCH2-CSHARP\Day 7\Sesi13\WebService\bin\Release\net5.0\Microsoft.OpenApi.dll
+C:\Users\deand\Documents\OCBC-BATCH2-CSHARP\Day 7\Sesi13\WebService\bin\Release\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\deand\Documents\OCBC-BATCH2-CSHARP\Day 7\Sesi13\WebService\bin\Release\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\deand\Documents\OCBC-BATCH2-CSHARP\Day 7\Sesi13\WebService\bin\Release\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
